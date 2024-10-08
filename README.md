@@ -28,7 +28,7 @@ I love new challenges and new projects that help me invest all my skills and exp
    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" data-canonical-src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" style="max-width: 100%;"/>
   </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" rel="nofollow">
-   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" data-canonical-src="	https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" style="max-width: 100%;"/>
+   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" data-canonical-src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" style="max-width: 100%;"/>
   </a>
 </p>
 <p>
@@ -151,7 +151,12 @@ I love new challenges and new projects that help me invest all my skills and exp
     rel="noopener noreferrer"
     href=""
   >
-    <img alt="Docker" src="https://camo.githubusercontent.com/ab945c282029462b8f24ba4a97ee20f2b70e13a2d3720ab2babc73bbc492049f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f636b65722d3243413545303f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&amp;logo=docker&amp;logoColor=white" style="max-width: auto; height: 23px;">
+    <img
+      alt="Docker"
+      src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&amp;logo=docker&amp;logoColor=white"
+      data-canonical-src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&amp;logo=docker&amp;logoColor=white"
+      style="max-width: auto; height: 23px;"
+    />
   </a>
 </p>
 
