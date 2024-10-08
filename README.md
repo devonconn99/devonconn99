@@ -140,8 +140,7 @@ I love new challenges and new projects that help me invest all my skills and exp
     rel="noopener noreferrer"
     href=""
     >
-    <img
-      src="https://camo.githubusercontent.com/25bbdc5be2869278c78bb26e82cc65f29059699fc7b2e41bb7dc0b56828bb054/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e65746c6966792d3030433742373f7374796c653d666c6174266c6f676f3d6e65746c696679266c6f676f436f6c6f723d7768697465"
+    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"
       alt="Netlify"
       data-canonical-src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat&amp;logo=netlify&amp;logoColor=white"
       style="max-width: auto; height: 23px; "
@@ -151,12 +150,8 @@ I love new challenges and new projects that help me invest all my skills and exp
     target="_blank"
     rel="noopener noreferrer"
     href=""
-    >
-    <img
-      src="https://camo.githubusercontent.com/4d015bf250194995d899a5d2b90babf1afc4458c1589b93e58fdfa4119749a49/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d3436613266313f7374796c653d666c61742d737175617265266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465"
-      alt="Docker"
-      data-canonical-src="https://img.shields.io/badge/Docker-100000?=flat&amp;logo=Docker&amp;logoColor=white"
-      style="max-width: auto; height: 23px;"/>
+  >
+    <img alt="Docker" src="https://camo.githubusercontent.com/ab945c282029462b8f24ba4a97ee20f2b70e13a2d3720ab2babc73bbc492049f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f636b65722d3243413545303f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&amp;logo=docker&amp;logoColor=white" style="max-width: auto; height: 23px;">
   </a>
 </p>
 
